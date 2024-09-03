@@ -8,3 +8,5 @@ modules/main/wallet/storage/*.json
 scheme.drawio
 
 config/.env
+
+#testbug

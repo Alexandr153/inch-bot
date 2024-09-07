@@ -14,7 +14,7 @@ from utils.storage_checker import StorageChecker
 
 # Comment down string for off logging.
 logging.basicConfig(level=logging.INFO)
-
+1
 
 async def main() -> None:
     config: Config = load_config()
